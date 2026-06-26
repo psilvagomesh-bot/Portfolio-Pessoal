@@ -301,6 +301,10 @@ h1 {
     flex: 1;
 }
 
+.card a{
+    text-decoration: none;
+}
+
 .card h3 {
     color: #fff;
     margin-bottom: 0.5rem;
@@ -314,6 +318,8 @@ h1 {
     line-height: 1.65;
     color: var(--cinza);
 }
+
+
 
 /* =============================================
    CONTATO — layout lado a lado
