@@ -282,7 +282,7 @@ h1 {
     overflow: hidden;
     transition: transform 0.35s ease, box-shadow 0.35s ease;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
 }
 
 .card img {
@@ -301,7 +301,7 @@ h1 {
     flex: 1;
 }
 
-.card a{
+.card-projetos a{
     text-decoration: none;
 }
 
