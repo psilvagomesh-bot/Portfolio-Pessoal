@@ -37,29 +37,6 @@ if (menuToggle && mainMenu) {
     }
 }
 
-/* =============================================
-   CARDS — só existe no index
-============================================= */
-const powerfit = document.getElementById('PowerFit');
-if (powerfit) {
-    powerfit.addEventListener('click', () => {
-        alert('Você clicou no Projeto PowerFit!');
-    });
-}
-
-const techeduca = document.getElementById('TechEduca');
-if (techeduca) {
-    techeduca.addEventListener('click', () => {
-        alert('Você clicou no Projeto TechEduca!');
-    });
-}
-
-const candycoffee = document.getElementById('CandyCoffee');
-if (candycoffee) {
-    candycoffee.addEventListener('click', () => {
-        alert('Você clicou no Projeto CandyCoffee!');
-    });
-}
 
 /* =============================================
    VALIDAÇÃO DO FORMULÁRIO DE CONTATO
